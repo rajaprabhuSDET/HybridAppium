@@ -1,0 +1,6 @@
+target
+test-output
+.gitattributes
+.settings
+.classpath
+.project
